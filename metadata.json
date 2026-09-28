@@ -1,0 +1,8 @@
+{
+  "name": "منصة التنافس الأكاديمي المباشر | Arena Live Exams",
+  "description": "منصة اختبارات تنافسية تفاعلية ومباشرة في الوقت الفعلي مع غرف انتظار متزامنة وتصحيح تلقائي ولوحة متصدرين عالمية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
